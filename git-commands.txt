@@ -1,3 +1,5 @@
+git pull origin master
+git push origin master
 git branch -a                                   //list all existing branches, including 
                                                 //  remotes
 git branch                                      //list all existing branches, local only
@@ -17,4 +19,4 @@ git merge branch-a                              //do the actual merge of branch-
 git branch -d branch-b                          //deletes branch-b
 
 git merge branch-a --no-ff                      //no fastforward option will cause the two
-                                                //paths (master & branch-a) to diverge, then                                                //join
+                                                //paths (master & branch-a) to diverge, then join
