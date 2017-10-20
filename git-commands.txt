@@ -6,3 +6,5 @@ git checkout test-branch-a                      //checkout 'test-branch-a'
 git checkout master                             //checkout master branch 
 git branch -m test-branch-a my-test-branch-a    //move test-branch-a to my-test-branch-a
 git branch -d my-test-branch-a                  //delete my-test-branch-a works if you are on a different branch
+
+git checkout -b branch-c                        //creates 'branch-c' then checkout to it
