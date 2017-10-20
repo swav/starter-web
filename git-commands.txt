@@ -1,3 +1,5 @@
 git branch -a
-git branch test-branch-a //create 'test-branch-a'
+git branch test-branch-a            //create 'test-branch-a'
 git log --oneline --decorate --graph
+git checkout test-branch-a          //checkout 'test-branch-a'
+git checkout master                 //checkout master branch 
