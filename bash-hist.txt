@@ -1,0 +1,500 @@
+  152  exit
+  153  cd ./dev/projects/tnt-all-in/
+  154  cd ./tnt-core/trackntraceserver/
+  155  cd ./target/webapp/
+  156  ls -l
+  157  ls -l
+  158  gvim ./variable.js 
+  159  exit
+  160  cd ~/bin
+  161  ./start-chrome.sh 
+  162  cd ~/dev/projects/
+  163  ls -l
+  164  cd practice/
+  165  ls -ltr
+  166  cd ./learn-react/
+  167  ls -l
+  168  gvim ./package.json 
+  169  npm run dev
+  170  npm run dev
+  171  npm run dev
+  172  npm run build
+  173  ls -l ./dist/
+  174  tree ./dist/
+  175  ls -l ./dist/assets/bundle.js 
+  176  find ./ -name 'bundle.js'
+  177  npm run build
+  178  npm run dev
+  179  npm run dev
+  180  npm run dev
+  181  ls -l
+  182  ./node_modules/.bin/webpack
+  183  find ./ -name 'bundle.js'
+  184  npr run dev
+  185  npm run dev
+  186  npm run dev
+  187  ./node_modules/.bin/webpack -version
+  188  gvim ./dist/index.html 
+  189  npm run dev
+  190  tree
+  191  tree -L 1
+  192  tree -L 2
+  193  gvim ./src/index.js 
+  194  gvim ./webpack.config.js 
+  195  gvim ./../react-course-projects/indecission-app/webpack.config.js 
+  196  gvim ./../react-course-projects/expensify/webpack.config.js 
+  197  gvim ./../react-course-projects/expensify/package.json 
+  198  gvim ./package.json 
+  199  ls-l
+  200  ls -l
+  201  gvim ./dist/index.html 
+  202  gvim ./package.json 
+  203  gvim ./../react-course-projects/expensify/package.json 
+  204  gvim ./webpack.config.js 
+  205  find ./ -name 'bundle.js'
+  206  rm ./dist/assets/bundle.js 
+  207  find ./ -name 'bundle.js'
+  208  find ./ -name 'bundle.js'
+  209  ls -l
+  210  gvim ./src/index.js 
+  211  gvim ./dist/index.html 
+  212  find ./ -name 'bundle.js'
+  213  find ./ -name 'bundle.js' -exec ls -l {} \;
+  214  rm ./dist/assets/bundle.js 
+  215  find ./ -name 'bundle.js' -exec ls -l {} \;
+  216  ls -l ./dist/
+  217  ls -l ./dist/assets/
+  218  cd ../react-course-projects/
+  219  cd expensify/
+  220  ls -l
+  221  gvim ./webpack.config.js 
+  222  ls -la
+  223  npm run dev
+  224  gvim ./package.json 
+  225  npm run dev-server
+  226  ls -l
+  227  cd ./src/
+  228  ls -l
+  229  gvim ./components/
+  230  cd ..
+  231  find ./ -name 'bundle.js'
+  232  gvim ./package.json 
+  233  node_modules/.bin/webpack -version
+  234  cd ../react-course-projects/expensify/
+  235  gvim ./webpack.config.js 
+  236  ls -la
+  237  cat ./.babelrc 
+  238  ls -l ./public/
+  239  ls -l ./public/scripts/
+  240  gvim ./package.json 
+  241  ls -l
+  242  gvim ./public/index.html 
+  243  gvim ./public/index.html 
+  244  gvim ./public/index.html 
+  245  gvim ./src/app.js 
+  246  cd ./dev/projects/practice/learn-react/
+  247  ls -l
+  248  gvim ./webpack.config.js 
+  249  gvim ./package.json 
+  250  npm run dev-server
+  251  npm run dev
+  252  npm run dev
+  253  npm run dev
+  254  npm run dev
+  255  npm run dev
+  256  npm run dev
+  257  ls -l ./dist/
+  258  ls -l ./dist/assets/
+  259  gvim ./dist/index.html 
+  260  gvim ./src/index.js 
+  261  gvim ./webpack.config.js 
+  262  mv ./dist/ ./public
+  263  ls -l ./public/
+  264  rm ./public/assets/
+  265  rm -rf ./public/assets/
+  266  ls -l ./public/
+  267  ls -l ./src/
+  268  mv ./src/index.js ./src/app.js
+  269  gvim ./public/index.html 
+  270  tree -L 1
+  271  gvim ./src/app.js 
+  272  gvim ./webpack.config.js 
+  273  echo $PATH
+  274  ls -l ./bin/
+  275  which start-chrome.sh
+  276  start-chrome.sh 
+  277  cd $WRK
+  278  gitk
+  279  ls -l
+  280  cd ./tnt-compliance-eu/
+  281  gitk
+  282  exit
+  283  cd ~
+  284  ls -l ./bin/
+  285  start-chrome.sh 
+  286  exit
+  287  cd ./src/main/resources/web/scripts/main/verifier/
+  288  ls -l
+  289  cd ui/
+  290  ls -l
+  291  ls -l ./ui/
+  292  mv ./ui/routes.jsx ./
+  293  rm ./ui/
+  294  rmdir ./ui/
+  295  ls -l
+  296  ls -l
+  297  ls -l
+  298  cd ../../access/ui/
+  299  ls -l
+  300  ls -l ./../../verifier/ui/
+  301  ls -l ../../main-intl.js 
+  302  diff ./routes.jsx  ./../../verifier/ui/routes.jsx 
+  303  cp ./routes.jsx ./../../verifier/ui/
+  304  diff ./routes.jsx  ./../../verifier/ui/routes.jsx 
+  305  cd ~/dev/projects/practice/fullstack-react
+  306  ls -l
+  307  cd ..
+  308  ls -ltr
+  309  ls -l ./fullstack-react
+  310  cd ./fullstack-react-book-r33a-code
+  311  ls -l
+  312  cd fullstack-react-code/
+  313  ls -l
+  314  cd ..
+  315  mv ./fullstack-react-code/* ./
+  316  ls -ltr
+  317  ls -l ./fullstack-react-code/
+  318  rmdir ./fullstack-react-code/
+  319  ls -l
+  320  cd ..
+  321  ls -l
+  322  cd fullstack-react-book-r33a-code
+  323  ls -l
+  324  git init
+  325  git status
+  326  gvim ./README.md 
+  327  cd ./voting_app/
+  328  ls -l
+  329  git add ./
+  330  git status
+  331  cd ..
+  332  git add ./
+  333  cd ./voting_app/
+  334  ls -l
+  335  gvim ./README.md 
+  336  gvim ./package.json 
+  337  tree -L 2
+  338  tree -L 3
+  339  gvim ./public/js/app-1.js 
+  340  gvim ./public/index.html 
+  341  gvim ./package.json 
+  342  gvim ./package.json 
+  343  gvim ./public/index.html 
+  344  gvim ./public/js/app.js 
+  345  gvim ./public/js/app.js 
+  346  gvim ./public/index.html 
+  347  gvim ./public/js/app-1.js 
+  348  cd ../
+  349  l s-l
+  350  ls -l
+  351  cd routing/
+  352  ls -l
+  353  ls -l ./basics/
+  354  gvim ./basics/README.md 
+  355  npm install
+  356  ls -ltr
+  357  ls -la
+  358  cd ./basics/
+  359  npm i
+  360  ls -la
+  361  cat ./package.json 
+  362  ls -l ./node_modules/react-scripts/
+  363  cat ./README.md 
+  364  npm start
+  365  ls -l
+  366  tree -L 4
+  367  tree -L 3
+  368  tree -L 2
+  369  tree -L 1
+  370  tree ./src/ -L 3
+  371  find ./src/
+  372  ls -l ./src/
+  373  gvim ./src/App.js 
+  374  gvim ./src/App.js 
+  375  ls -l ./src/
+  376  ls -l ./src/complete/
+  377  cat ./src/complete/App.js 
+  378  cat ./src/complete/App-1.js 
+  379  ls -l ./src/
+  380  gvim ./src/App.js 
+  381  exit
+  382  cd $WRK
+  383  cd ./tnt-core/trackntraceserver/
+  384  ls -l
+  385  cd ./target/webapp/
+  386  ls -l
+  387  exit
+  388  cd ..
+  389  idea &
+  390  cd ./tnt-frontend-ui/
+  391  npm run dev
+  392  npm run dev
+  393  gvim ./src/index.js 
+  394  gvim ./package.json 
+  395  ls -l ./public/
+  396  exit
+  397  cd ./dev/projects/practice/fullstack-react-book-r33a-code
+  398  pwd
+  399  ls -l
+  400  cd ./routing/
+  401  ls -l
+  402  cd ./basics/
+  403  ls -l
+  404  find ./src/
+  405  ls -l ./src/
+  406  gvim ./src/App.js 
+  407  ls -l ./src/index.js 
+  408  gvim ./src/index.js 
+  409  ls -ll
+  410  ls -l ./public/
+  411  gvim ./public/index.html 
+  412  cat ./README.md 
+  413  npm i
+  414  gvim ./package.json 
+  415  npm start
+  416  cd ../../voting_app/
+  417  ls -l
+  418  ls -l ./public/
+  419  gvim ./public/index.html 
+  420  git status
+  421  cat ./README.md 
+  422  npm run server
+  423  cat ./README.md 
+  424  ls -l
+  425  cat ./package.json 
+  426  npm i
+  427  cat ./README.md 
+  428  npr run server
+  429  npm run server
+  430  npm i
+  431  cat ./README.md 
+  432  npm run server
+  433  gvim ./public/index.html 
+  434  ls -l
+  435  gvim ./public/js/app-1.js 
+  436  gvim ./public/index.html 
+  437  gvim ./public/js/seed.js 
+  438  gvim ./public/index.html 
+  439  gvim ./public/index.html 
+  440  gvim ./public/index.html 
+  441  gvim ./public/js/app.js 
+  442  gvim ./public/index.html 
+  443  tree -L 2
+  444  tree -L 1
+  445  find ./ -name 'vendor'
+  446  ls -l ./public/vendor/
+  447  gvim ./public/js/app.js 
+  448  gvim ./public/js/app-1.js 
+  449  ls -l
+  450  ls -l ./public/
+  451  ls -l ./public/js/
+  452  gvim ./public/js/app-complete.js 
+  453  gvim ./public/js/app.js 
+  454  ls -l ./public/vendor/
+  455  gvim ./public/vendor/babel-standalone.js 
+  456  git status
+  457  git diff ./public/index.html 
+  458  git reset ./public/index.html 
+  459  git status
+  460  git diff ./public/index.html 
+  461  git reset ../routing/basics/src/App.js 
+  462  git status
+  463  git reset ../routing/basics/src/index.js 
+  464  git diff public/js/app-1.js 
+  465  gvim ./public/index.html 
+  466  git status
+  467  git reset ./public/index.html --hard
+  468  git reset --hard ./public/index.html 
+  469  git help reset
+  470  git diff
+  471  git status
+  472  git diff public/index.html 
+  473  gvim ./public/index.html 
+  474  git reset HEAD ./public/index.html 
+  475  git log
+  476  gvim ./public/index.html 
+  477  git status
+  478  git diff ./public/js/app-1.js 
+  479  git reset ./public/js/app-1.js 
+  480  cat ./public/js/app-1.js 
+  481  git status
+  482  git add ./public/js/app.js 
+  483  git status
+  484  cd ./../routing/basics/
+  485  ls -l
+  486  ls -l  ./public/
+  487  ls -l ./src/
+  488  start-chrome.sh 
+  489  start-chrome.sh 
+  490  idea &
+  491  exit
+  492  gvim ~/.bashrc 
+  493  gvim ~/.bashrc 
+  494  cd $tnt
+  495  pwd
+  496  exit
+  497  cd $wrk
+  498  cd ./tnt-frontend-ui/
+  499  find ./ -name 'logger.js'
+  500  exit
+  501  cd ./dev/projects/practice/
+  502  ls -l
+  503  git clone https://github.com/swav/starter-web.git
+  504  ls -la
+  505  cd ./starter-web/
+  506  git status
+  507  gvim ./resources.txt
+  508  git status
+  509  git add ./resources.txt 
+  510  touch ./.gitignore
+  511  gvim ./.gitignore 
+  512  git status
+  513  gvim ./.gitignore 
+  514  git status
+  515  touch test.txt
+  516  git status
+  517  cp ./test.txt ./.test.txt
+  518  ls -la
+  519  git satus
+  520  git status
+  521  git reset HEAD resources.txt 
+  522  git status
+  523  git add .
+  524  git status
+  525  git add resources.txt test.txt 
+  526  git status
+  527  git commit -m "intial commit"
+  528  git config
+  529  git config --local
+  530  git config --local -l
+  531  git config --local --add user.name swav
+  532  git config --local -l
+  533  git config --local --add user.emai swavrybak@gmail.com
+  534  git config --local -l
+  535  git commit -m "intial commit"
+  536  gti config --local user.email "swavrybak@gmail.com"
+  537  git config --local user.email "swavrybak@gmail.com"
+  538  git config --local user.name "swav rybak"
+  539  git commit -m "intial commit"
+  540  git log
+  541  git commit
+  542  git status
+  543  git pull origin master
+  544  git push origin master
+  545  git status
+  546  ls -ltra
+  547  find ~ -name '.gitconfig'
+  548  gvim ./hipster.txt
+  549  cat ./resources.txt 
+  550  git status
+  551  git add ./hipster.txt 
+  552  git status
+  553  git commit -m 'initial bs text'
+  554  git status
+  555  git pull origin master
+  556  git push origin master
+  557  git push origin master
+  558  git status
+  559  gvim ./hipster.txt 
+  560  git status
+  561  git commit -a -m 'second addition of text'
+  562  git status
+  563  git log
+  564  git status
+  565  git pull origin master
+  566  git ls -files
+  567  git ls-files
+  568  git status
+  569  cat ./test.txt 
+  570  git push origin master
+  571  git push origin master
+  572  git push origin master
+  573  git status
+  574  gvim ./hipster.txt 
+  575  git status
+  576  git add ./hipster.txt 
+  577  git status
+  578  git status
+  579  clear
+  580  git status
+  581  git status
+  582  git diff --cached ./hipster.txt 
+  583  git diff ./hipster.txt 
+  584  git status
+  585  git help add
+  586  git add ./hipster.txt 
+  587  git commit
+  588  git status
+  589  git status
+  590  gvim ./hipster.txt 
+  591  git status
+  592  git diff ./hipster.txt 
+  593  git status
+  594  git checkout ./hipster.txt 
+  595  git status
+  596  gvim ./hipster.txt 
+  597  git add ./hipster.txt 
+  598  git status
+  599  gvim ./hipster.txt 
+  600  git statuus
+  601  git status
+  602  git diff ./hipster.txt 
+  603  git diff --cached ./hipster.txt 
+  604  git diff ./hipster.txt 
+  605  git diff --cached ./hipster.txt 
+  606  git status
+  607  git reset HEAD ./hipster.txt 
+  608  git status
+  609  git diff ./hipster.txt 
+  610  git status
+  611  git checkout ./hipster.txt 
+  612  git status
+  613  history
+  614  git status
+  615  gvim ./hipster.txt 
+  616  git status
+  617  git diff ./hipster.txt 
+  618  git checkout -- ./hipster.txt 
+  619  git status
+  620  git diff ./hipster.txt 
+  621  gvim ./hipster.txt 
+  622  git mv ./hipster.txt ./hipster-you.txt
+  623  git status
+  624  git reset HEAD ./hipster-you.txt 
+  625  git status
+  626  git diff
+  627  git diff ./hipster-you.txt 
+  628  git add ./hipster-you.txt 
+  629  git status
+  630  git commit -m 'changed name'
+  631  git status
+  632  ls -l
+  633  mv ./test.txt ./test-me.txt
+  634  git status
+  635  git add -A
+  636  git status
+  637  git status
+  638  git commit -m 'renamed text.txt file'
+  639  git status
+  640  git log
+  641  git mv ./test-me.txt ./test-me-too.txt
+  642  git status
+  643  git reset HEAD ./test-me-too.txt 
+  644  git status
+  645  git reset test-me-too.txt 
+  646  git status
+  647  git status
+  648  git mv test-me-too.txt test-me.txt
+  649  history
+  650  histor > bash-hist.txt
+  651  history > bash-hist.txt
