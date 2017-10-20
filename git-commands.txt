@@ -1,5 +1,7 @@
-git branch -a
-git branch test-branch-a            //create 'test-branch-a'
+git branch -a                                   //list all existing branches
+git branch test-branch-a                        //create 'test-branch-a'
 git log --oneline --decorate --graph
-git checkout test-branch-a          //checkout 'test-branch-a'
-git checkout master                 //checkout master branch 
+git checkout test-branch-a                      //checkout 'test-branch-a'
+git checkout master                             //checkout master branch 
+git branch -m test-branch-a my-test-branch-a    //move test-branch-a to my-test-branch-a
+git branch -d my-test-branch-a                  //delete my-test-branch-a works if you are on a different branch
