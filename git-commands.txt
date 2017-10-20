@@ -1,10 +1,17 @@
-git branch -a                                   //list all existing branches, including remotes
+git branch -a                                   //list all existing branches, including 
+                                                //  remotes
 git branch                                      //list all existing branches, local only
 git branch test-branch-a                        //create 'test-branch-a'
 git log --oneline --decorate --graph
 git checkout test-branch-a                      //checkout 'test-branch-a'
 git checkout master                             //checkout master branch 
 git branch -m test-branch-a my-test-branch-a    //move test-branch-a to my-test-branch-a
-git branch -d my-test-branch-a                  //delete my-test-branch-a works if you are on a different branch
-
+git branch -d my-test-branch-a                  //delete my-test-branch-a works if you are 
+                                                //  on a different branch
 git checkout -b branch-c                        //creates 'branch-c' then checkout to it
+git diff master branch-a                        //to see the differences
+git checkout master                             //to merge branch-a to master you need to be
+                                                //  in master branch
+git merge branch-a                              //do the actual merge of branch-a into master
+                                                //  which is currently checked out
+git branch -d branch-b                          //deletes branch-b
