@@ -15,3 +15,6 @@ git checkout master                             //to merge branch-a to master yo
 git merge branch-a                              //do the actual merge of branch-a into master
                                                 //  which is currently checked out
 git branch -d branch-b                          //deletes branch-b
+
+git merge branch-a --no-ff                      //no fastforward option will cause the two
+                                                //paths (master & branch-a) to diverge, then                                                //join
