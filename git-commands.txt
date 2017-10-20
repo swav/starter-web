@@ -1,0 +1,3 @@
+git branch -a
+git branch test-branch-a //create 'test-branch-a'
+git log --oneline --decorate --graph

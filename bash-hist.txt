@@ -482,18 +482,11 @@
   633  mv ./test.txt ./test-me.txt
   634  git status
   635  git add -A
-  636  git status
-  637  git status
-  638  git commit -m 'renamed text.txt file'
   639  git status
   640  git log
   641  git mv ./test-me.txt ./test-me-too.txt
-  642  git status
   643  git reset HEAD ./test-me-too.txt 
-  644  git status
   645  git reset test-me-too.txt 
-  646  git status
-  647  git status
   648  git mv test-me-too.txt test-me.txt
   649  history
   650  histor > bash-hist.txt
